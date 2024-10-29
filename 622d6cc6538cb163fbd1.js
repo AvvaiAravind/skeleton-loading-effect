@@ -1,0 +1,1 @@
+import"./style.css";window.onload=()=>{const e=document.querySelectorAll(".skeleton");setTimeout((()=>{e.forEach((e=>e.classList.remove("skeleton")))}),5e3)};
